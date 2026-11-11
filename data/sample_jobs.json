@@ -1,0 +1,18 @@
+[
+  {
+    "id": "job-001",
+    "title": "Python Engineer",
+    "company": "Example Labs",
+    "location": "Remote",
+    "salary": "$120k-$150k",
+    "description": "Build backend services in Python with FastAPI and SQL."
+  },
+  {
+    "id": "job-002",
+    "title": "Data Analyst",
+    "company": "Insight Co.",
+    "location": "New York, NY",
+    "salary": "$95k-$120k",
+    "description": "Analyze data trends and build dashboards."
+  }
+]
